@@ -1,7 +1,11 @@
-# **Test Package**
+# **1-lesson**
 
-The link for github repository: (https://github.com/AlinaKorzik/node)
+## What is it?
 
-Package includes momentjs, loadash. Prettier uses only for development.
+This package includes momentjs, loadash. Prettier uses only for development.
+
+## Installation
 
 Use `npm i -P` to add package in dependences or `npm i -D` to add it in devDependencies.
+
+The link for github repository: (https://github.com/AlinaKorzik/node)
