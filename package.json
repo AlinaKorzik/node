@@ -18,7 +18,8 @@
   "homepage": "https://github.com/AlinaKorzik/project_toDo#readme",
   "dependencies": {
     "lodash": "^4.17.21",
-    "moment": "^2.29.1"
+    "moment": "^2.29.1",
+    "sharp": "^0.30.3"
   },
   "devDependencies": {
     "prettier": "^2.6.0"
